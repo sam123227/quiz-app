@@ -9,7 +9,6 @@ A responsive Quiz Application built using HTML, CSS, and JavaScript. Test your H
 - ⏱️ 60-second countdown timer
 - ⬅️➡️ Previous and Next navigation
 - ✅ Highlights correct and incorrect answers
-- 🏆 Instant final score
 - 📱 Responsive design
 
 ## 🛠️ Technologies Used
@@ -36,7 +35,7 @@ cd quiz-app
 
 ## 📸 Screenshot
 
-![Quiz App](./screenshot/quiz.png)
+![Quiz App](./screenshots/quiz.png)
 
 
 ## 👨‍💻 Author
