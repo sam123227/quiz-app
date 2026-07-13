@@ -1,0 +1,51 @@
+<!Doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Quiz App</title>
+    <link rel="stylesheet" href="style1.css" />
+  </head>
+  <body>
+    <div class="card">
+      <h1>🧠 Quiz App</h1>
+
+      <p class="subtitle">Test your HTML, CSS & JavaScript knowledge!</p>
+
+      <input type="text" id="nameInput" placeholder="Enter your name" />
+
+      <p id="error"></p>
+
+      <button onclick="startQuiz()">Start Quiz</button>
+
+      <h2 id="welcome"></h2>
+      <p id="msg"></p>
+
+      <button id="okBtn">OK</button>
+
+      <div class="info">
+        <p>✅ 10 Questions</p>
+        <p>⏱️ 60 Seconds</p>
+      </div>
+    </div>
+
+    <div id="questionBox">
+      <div class="card">
+        <div id="timer">Time Left: 60 seconds</div>
+        <h2 id="question"></h2>
+        <button class="option"></button>
+        <button class="option"></button>
+        <button class="option"></button>
+        <button class="option"></button>
+
+        <button type="button" id="PrevBtn">Previous</button>
+        <button type="button" id="NextBtn">Next</button>
+      </div>
+    </div>
+    <div id="resultBox" class="card">
+      <h2>Quiz Completed!</h2>
+      <p id="finalScore"></p>
+    </div>
+    <script src="script1.js"></script>
+  </body>
+</html>
