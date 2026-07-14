@@ -37,6 +37,10 @@ cd quiz-app
 
 ![Quiz App](./screenshots/quiz.png)
 
+## 🌐 Live Demo
+
+https://quiz-app-self-beta.vercel.app/
+
 
 ## 👨‍💻 Author
 
