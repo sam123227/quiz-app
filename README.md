@@ -1,23 +1,23 @@
-# 🧠 Quiz App
+# Quiz App
 
-A responsive Quiz Application built using HTML, CSS, and JavaScript. Test your HTML, CSS, and JavaScript knowledge with a timed quiz and instant score calculation.
+A responsive Quiz Application built using HTML, CSS, and JavaScript. It tests your HTML, CSS, and JavaScript knowledge with a timed quiz.
 
-## ✨ Features
+## Features
 
-- 👤 User name validation
-- ❓ 10 multiple-choice questions
-- ⏱️ 60-second countdown timer
-- ⬅️➡️ Previous and Next navigation
-- ✅ Highlights correct and incorrect answers
-- 📱 Responsive design
+-  User name validation
+-  10 multiple-choice questions
+-  60-second countdown timer
+-  Previous and Next navigation
+-  Highlights correct and incorrect answers
+-  Responsive design
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript (ES6)
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repository
 
@@ -33,15 +33,11 @@ cd quiz-app
 
 3. Open `index.html` in your browser.
 
-## 📸 Screenshot
+## Screenshot
 
 ![Quiz App](./screenshots/quiz.png)
 
-## 🌐 Live Demo
+## Live Demo
 
 https://quiz-app-self-beta.vercel.app/
 
-
-## 👨‍💻 Author
-
-**Samir**
